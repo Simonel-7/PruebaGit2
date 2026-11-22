@@ -1,0 +1,9 @@
+Reporte de Resumen Operativo Completo
+=== Habitats por Estado ===
+Habitats Activos: 
+Habitat [HabitatId=CV, name=Clinica Veterinaria, environment=MEDICAL, temperature=27.0, maxCapacity=25, area=400.0, budget=4.0E7, state=ACTIVE, myAnimals=[], assignEmployees=[]]
+Habitats Activos: 
+Habitat [HabitatId=H01, name=Sabana, environment=AQUATIC, temperature=10.0, maxCapacity=10, area=250.0, budget=4000000.0, state=ACTIVE, myAnimals=[], assignEmployees=[]]
+=== Animales por Estado ===
+=== Actividades Asignadas ====== Costo Operativo ===
+Costo: 4.4E7
